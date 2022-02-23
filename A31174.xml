@@ -1,0 +1,487 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Salvation laid on its right foundation, or, The free grace of God prov'd to be the only ground of, and to have the alone stroke in, the matter of our salvation being the sum of two sermons / preach'd to a county auditory by an admirer of grace, and the freeness of it.</title>
+            <author>R. C.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 68 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31174</idno>
+            <idno type="STC">Wing C113A</idno>
+            <idno type="STC">ESTC R34781</idno>
+            <idno type="EEBO-CITATION">14707621</idno>
+            <idno type="OCLC">ocm 14707621</idno>
+            <idno type="VID">102709</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31174)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102709)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1566:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Salvation laid on its right foundation, or, The free grace of God prov'd to be the only ground of, and to have the alone stroke in, the matter of our salvation being the sum of two sermons / preach'd to a county auditory by an admirer of grace, and the freeness of it.</title>
+                  <author>R. C.</author>
+               </titleStmt>
+               <extent>32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and are to be sold by R. Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedications signed: R.C.</note>
+                  <note>Errata: p. 32.</note>
+                  <note>At head of title: XXI.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Ephesians II, 8 --  Sermons.</term>
+               <term>Rule of faith.</term>
+               <term>Theology, Doctrinal.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:102709:1" rendition="simple:additions"/>
+            <p>XXI <hi>Salvation laid on its Right Foundation:</hi> OR, The Free Grace of God prov'd to be the only ground of, and to have the alone ſtroke in, the matter of our Salvation.</p>
+            <p>Being the Sum of Two SERMONS, Preach'd to a Country AUDITORY.</p>
+            <p>
+               <hi>By an Admirer of Grace, and the Freeneſs of it.</hi>
+            </p>
+            <q>
+               <p>
+                  <bibl>
+                     <hi>2 Tim. 1.9.</hi>
+                  </bibl> Who hath ſaved us, and called us with an holy Calling, not ac<g ref="char:EOLhyphen"/>cording to our Works, but according to his own purpoſe and grace, which was given us in Chriſt Jeſus before the World began.</p>
+               <p>
+                  <bibl>
+                     <hi>Titus 3.5.</hi>
+                  </bibl> Not by Works of Righteouſneſs which we have done, but according to his Mercy he ſaved us.</p>
+               <p>
+                  <hi>Dei gratia non erit gratia ullo modo niſi gratuita fuerit omni modo.</hi> 
+                  <bibl>Aug. de pec. Orig. l. <hi>2.</hi> c. <hi>24.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON</hi> Printed, and are to be ſold by <hi>R. Baldwin</hi> at the <hi>Oxford Arms</hi> in <hi>Warwick-lane.</hi> 1698.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:102709:2"/>
+            <pb facs="tcp:102709:2"/>
+            <head>To his much Honoured, and his very good Friends, Capt. <hi>William Thompſon,</hi> 
+               <abbr>Eſq</abbr>. <hi>AND TO</hi> Madam <hi>Katherina,</hi> his Pious Conſort. Salvation.</head>
+            <opener>
+               <salute>Much Honoured in our Lord,</salute>
+            </opener>
+            <p>THE great Acquaintance <hi>You</hi> have with, Honour for, and Delight in the Truths treated upon in the Subſe<g ref="char:EOLhyphen"/>quent Tract, ſtrongly inclined me to this <hi>Dedication.</hi> —</p>
+            <p>I have no Deſign in publiſhing theſe Labours, of Cour<g ref="char:EOLhyphen"/>ting the Applauſe of any, nor Recovering the Eſteem I once had among ſome: I have Learned,<note place="margin">Rom <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> to <hi>My own Master I stand or fall.</hi> That which engaged me in the Work, was a deſire to put to my poor help in hand, for the clearing up, and mag<g ref="char:EOLhyphen"/>nifying of that Glorious, Weighty and Soul-Refreſhing Do<g ref="char:EOLhyphen"/>ctrine of <hi>Salvation by Grace,</hi> which of late has been ſo ſtrange<g ref="char:EOLhyphen"/>ly o're clouded by the Miſts and Fogs the Legaliſts have Raiſed. I confeſs I have all Reaſons in my ſelf to bow down under a ſenſe of my Inability for ſo great a Work. But as one who de<g ref="char:EOLhyphen"/>ſires to be found Faithful, I cannot but endeavour an Improve<g ref="char:EOLhyphen"/>ment of my <hi>One Talent;</hi> and ſhould be much Raiſed in my Spi<g ref="char:EOLhyphen"/>rits, if God ſhould incline others to Imploy their <hi>Five</hi> in a Work ſo neceſſary at this day, in which the Doctrine of <hi>Salvation by Grace</hi> is Contemned, and greatly Aſperſed; not only to the great <hi>Debilitating,</hi> but indeed Amazement of the <hi>Honourers</hi> of this <hi>Glorious Truth,</hi> though indeed the Wonder is ſomewhat leſſen<g ref="char:EOLhyphen"/>ed when we conſider, That Every Man is an <hi>Arminian</hi> born; <hi>i. e.</hi>
+               <pb facs="tcp:102709:3"/>
+ſuch he is by nature, and therefore greatly in love with him<g ref="char:EOLhyphen"/>ſelf, and fond of his own Improvements, and ſo ſtifly bent to a Covenant of Works, that it is no eaſie matter to draw him off from priding himſelf with the Pharaſaical Feathers of his own Performances;<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 65 5. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke 18.11.</note> 
+               <hi>Stand by, for I am holier than thou,</hi> is a Diſtem<g ref="char:EOLhyphen"/>per ſomewhat Epidemical; and <hi>God I thank thee, I am not as other Men are,</hi> has ſtrangely ſeized the generality of Mankind; the folly of which, they ſhall readily acknowledge, when ſet on the other ſide of Eternity: for then thoſe Juſticiaries who have magnified Man, and preſumed to exalt him at ſo high a rate, ſhall then freely own, that Man fallen, is poor, blind, wretched and naked, and at enmity with all that is truly good, and that he is never more remote, and far off from God, than whiles in high thoughts of himſelf, glorying in his own Under<g ref="char:EOLhyphen"/>ſtanding, Strength, Worthineſs, and freedom of Will; which the ſtroaking himſelf with, makes him proud and preſumptu<g ref="char:EOLhyphen"/>ous; I ſay, this they ſhall then own, and the admirers of free di<g ref="char:EOLhyphen"/>ſtinguiſhing Grace, would count it hall joy to ſee God convincing them of it now. <hi>Arminianiſm</hi> is a dangerous bottom, and the more, becauſe it is ſo agreeable with corrupt Nature; it being natural to Men to think, that if they be ſaved, it muſt be by their own Merits and Worthineſs, not from the free ſpecial diſtin<g ref="char:EOLhyphen"/>guiſhing grace of God; and 'tis that which <hi>Arminianiſm</hi> brings Men to at laſt: for if God have not laid the Foundation of their Salvation on the bottom of free Grace, then they with what Helps they had common to them that are ſaved, and to them that periſh, do make themſelves to differ; and how God diſho<g ref="char:EOLhyphen"/>nouring a Principle this is, let our Enemies themſelves con<g ref="char:EOLhyphen"/>ſider, it is no leſs than a robbing God of his Glory, which he has declared,<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 2.8.</note> 
+               <hi>He will not give to another;</hi> to which end, it is the Apoſtle bars and ſhuts out the deſert of Works, from being cauſes of Salvation,<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 9.</note> 
+               <hi>Not of Works, leaſt any Man ſhould boaſt;</hi> clearly intimating, that nothing which we do, doe's merit our Salvation, or is a cauſe procuring it unto us.</p>
+            <p>Thus, Sir, and Madam, I am perſuaded you have learned <hi>Chriſt;</hi> God having by his Servants, fed You with the fineſt of
+<pb facs="tcp:102709:3"/>
+the <hi>Wheat,</hi> and happily placed You in Your relation to a Church, where You are bleſt with the Sound of the true <hi>Shibboleth;</hi> the Strength that God in his rich mercy, is pleaſed yet to <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to your Worthy Paſtor, being greatly imployed in magnifying the freeneſs of <hi>God's Grace,</hi> and debaſing proud <hi>Man,</hi> and all his empty performances; a Work which not only He, but all of an <hi>Evangelical Caſt</hi> delight in, and <hi>Rejoyce</hi> to be promoters of; well knowing that as this is what they now own and preach, ſo it is what they ſhall <hi>Triumph</hi> in, in the <hi>Great Day,</hi> when ſuch as have <hi>Exalted Grace,</hi> and the <hi>Freeneſs</hi> of it ſhall be <hi>Exalted</hi> by it: when, on the contrary, ſuch as have Exalted empty Man, ſo as to detract or leſſen the <hi>Glory of God,</hi> which is all in all in the matter of Man's <hi>Salvation,</hi> ſhall hang down their heads with <hi>ſhame and confuſion of Face,</hi> and be Rejected as Friends to <hi>Antichriſt,</hi> and Preachers of <hi>Popiſh,</hi> yea, <hi>Deviliſh Doctrine;</hi> for no better is that which puts Men upon ſeeing moſt in the Creature, and leaſt in the Creator, who is <hi>God bleſſed for ever more.</hi>
+            </p>
+            <p>I'll not detain You any longer in the Porch, only to hint, that it might have been thought neceſſary, by ſome that I ſhould have given the World ſome account of thoſe <hi>Graces</hi> which ſo eminent<g ref="char:EOLhyphen"/>ly ſhine in each of You; a Theam ſo copious, that I ſhould ſooner want Words than Matter; but being well acquainted, how little You delight in it, and how every way unfit I am for it, I ſhall wave Encomiums of Praiſe, to bow my knees in Prayer, that God in the riches of his grace, would more and more enable each of You to put the hopes of Your Salvation out of your Selves, upon that which <hi>God</hi> hath done for you in <hi>Chriſt,</hi> and fling your ſelves by Faith, into the meritorious Arms of the Lord Jeſus, adoring that grace, by which you have hope of be<g ref="char:EOLhyphen"/>ing made <hi>meet to be partakers of the Inheritance of the Saints in Light.</hi>
+            </p>
+            <p>Now that our Lord Jeſus Chriſt himſelf, and God, even our Father, which hath loved us, and hath given us everlaſting Conſolation and good Hope, through <hi>grace,</hi> may comfort your <hi>Hearts,</hi> and eſtabliſh you in every good <hi>Word</hi> and <hi>Work;</hi> ſhall be the earneſt deſire of him, who is for the temporal and eternal Happineſs of You and Yours.</p>
+            <closer>
+               <salute>SIR and MADAM,</salute>
+               <signed>Your moſt humble Supplicant at the Throne of Grace. <hi>R.C.</hi>
+               </signed>
+               <dateline>
+                  <date>Jan. xxix. 1698.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:102709:4"/>
+            <head>A Word to the Admirers of <hi>Free Grace,</hi> eſpecially thoſe who were hearers of theſe Sermons.</head>
+            <opener>
+               <salute>Dear Friends,</salute>
+            </opener>
+            <p>ONE would think the Doctrine of <hi>Free Grace</hi> is ſo Illuſtrious in Scripture as not to be ſpoken againſt but ſeeing it meets with great oppoſition from the <hi>Arminian</hi> Party, who are deſirous not only <hi>to be Teachers, but</hi> Thunderers of the <hi>Law, underſtanding not what they ſay, nor whereof they affirm;</hi> eſpecially when they charge <hi>Antinomianiſm</hi> upon the Preachers of <hi>Free Grace,</hi> who are ſo far from being Enemies to the Law, that it may be eaſily made ap<g ref="char:EOLhyphen"/>pear they are better Friends to it than our Opponents, who inſtead of yeilding a full and <hi>perfect Obedience to the Law,</hi> put it off with <hi>Lame, Imperfect Performances,</hi> when the Admirers of <hi>Free Grace</hi> are for having it ſatisfied to the full, in that they plead the compleat and plenary ſatisfaction made by their <hi>Elder Brother the Lord Jeſus.</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 1.</note> The Oppoſition, I ſay, the Doctrine of <hi>Free Grace</hi> meets with was a means to Midwife theſe Sermons into the world, which otherwiſe would have been buried in Oblivion, the Author retaining a deep ſenſe of his Inability for ſuch a work; as alſo the great diſcouragement he at preſent lies under, having of late been toſs'd upon the bluſtring Waves and Billows of Envy and Reproach; which Storm was ſo vio<g ref="char:EOLhyphen"/>lent and tempeſtuous, one Wave beating in upon the Neck of another that his ſinking Spirits are ſcarce recover'd: in which Storm he'll not tell you now how ſorely he was ſhot at by ſome, nor how <hi>Indecorouſly</hi> he was dealt with by others, ſeeing it may be ſaid of all theſe Storms as of <hi>Julian</hi>'s Perſecution, <hi>Nubecula cito Tranſitura;</hi> they'll ſoon be blown over, and then follows a perpetual Calm. This ſhort Night of Sorrow will produce ſuch a bright and laſting Morning of Joy as will never ſuffer Eclipſe more, in which you'll ſee many Heirs of Grace in Heaven, whom you <hi>thought</hi> hardly ſit to live upon the Earth. And a matchleſs mercy it is that <hi>God ſees not as Man ſees.</hi> Man looks at the outward Appearance, the Worthineſs and Towardlineſs in us a<g ref="char:EOLhyphen"/>bove others, but God looks upon us as cloathed in the Righteouſneſs
+<pb facs="tcp:102709:4"/>
+of his own Son, which he of his <hi>Free Grace</hi> hath bemantled us with, and wrapt us in.</p>
+            <p>The Deſign of the enſuing Diſcourſe is to <hi>magnify God's Grace,</hi> and the Freeneſs of it, and to prove we are ſaved wholly by Grace from firſt to laſt; our Election, Redemption, Converſion, all is from ſpecial Diſcriminating, diſtinguiſhing Grace; we have not the leaſt thing to Glory in, as if we had made our ſelves to differ from thoſe that Periſh. But we muſt wonder here, and to all Eternity in Hea<g ref="char:EOLhyphen"/>ven, that we ſhould find Grace in the ſight of the Lord. In han<g ref="char:EOLhyphen"/>dling the point, I have endeavoured the avoiding all <hi>Rhetorical Flouriſhes</hi> as no way <hi>Condecent</hi> to a Truth ſo weighty and miſte<g ref="char:EOLhyphen"/>rious in it ſelf, and in this it is <hi>maſticated</hi> and prepared for the more unintelligible Reader.</p>
+            <p>The Author hopes, thoſe many Reflections caſt upon him (which were exhal'd out of the Bog of Ignorance and Malice) will not pre<g ref="char:EOLhyphen"/>judice thoſe to whom he is known; againſt the Truths treated upon in the following Tract, becauſe Publiſhed by him, and alſo that his real weakneſſes, which he humbly acknowledges to have been not a few, Will no ways Impede the chearful Embracing of, and cloſing in with the Soul-Refreſhing Truths laid down in the following Diſcourſe. He is ſenſible it has been his Lot to have his Actions viewed, with the Green Spectacles of prejudice, and you know through a Green Glaſs every thing appears Green; and he alſo knows it is the Eaſieſt thing of a Thouſand, for a malicious mind to ſoyle the Glory of the braveſt and moſt beautiful Actions, with ill and wrong Interpreta<g ref="char:EOLhyphen"/>tions; And it were well if both Miniſters and People would Learn, more tenderly to handle the Reputation of one another, it being like a white Ball, which ſully's by being toſt from hand to hand, profeſſors themſelves being (in this caſe) too well acquainted with Addition and Multiplication; And where is that Man which does not ſome<g ref="char:EOLhyphen"/>times ſuch Actions as he would not have diſcretion ſcan. In<g ref="char:EOLhyphen"/>tegrity it ſelf would not be aw'd by a blabbing ſpy; It is therefore to be wiſht, that Men in all their Commerce would make appeals to their own Conſciences, would I have this meaſure meeted out to my own Soul. And Oh! That Men would abhor ſpeaking that of a<g ref="char:EOLhyphen"/>nother, which they would not have another ſpeak of them; or Con<g ref="char:EOLhyphen"/>demn
+<pb facs="tcp:102709:5"/>
+that in any one, which we would not but have pardoned in our ſelves; And Oh! know, if that Man or Woman you defame be a Child of God, you muſt expect to pay dearly for it. What ſays God to <hi>Aaron</hi> and <hi>Miriam</hi> (Saints.<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 12.8.</note>) <hi>Were you not afraid to ſpeak a<g ref="char:EOLhyphen"/>gainſt my Servant</hi> Moſes, <hi>ſeeing they were not,</hi> Miriam <hi>ſuffers ſorely for it?</hi> Ver. <hi>9.10.</hi> And ſo ſhall thoſe, who upon the Mali<g ref="char:EOLhyphen"/>cious Inſtigation of a Viperine Brood, or their own baſe Hearts deride, Reproach, or diſgrace any of the Members of Chriſt: For moſt dangerous it is to Rake in thoſe ſores, which the Blood of Chriſt hath healed. The Author would not have dwelt ſo long upon what is ſo diſgreſſive, from the matter contained in the ſubſequent Tract, had he not been ſorely pounded in the morter of Reproach; In which State he (through Grace) being free from that Gun-Powder Spirit, which every little ſpark blows up, has preſſed after, having a heart fraught full of Holy Magnanimity and Heavenly Greatneſs, which walks ſo high as to ſlight and diſregard the Frowns of Honoured Inſolency, and to Trample upon the Scorns and Taunts of Dunghill Malice, ſtill keeping on his way of admiring <hi>Free Grace,</hi> and Re<g ref="char:EOLhyphen"/>lying upon it. To conclude, the Sermons you are preſented with, might have been more Polite and Accurate, had the Author deſign<g ref="char:EOLhyphen"/>ed the Accumulating any praiſe to himſelf, which he being no ways Ambitious of, offers them to you as they are, begging that for you, (which he often does for himſelf) even that your Souls may be ga<g ref="char:EOLhyphen"/>thered to that People who have a Principle and Heart given them of God;<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 15.</note> to ſay to Eternity, <hi>Not unto us O Lord, not unto us, but unto thy Name be all the Praiſe of the hopes of our Salvation.</hi>
+            </p>
+            <closer>
+               <signed>R. C.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="sermon">
+            <pb n="9" facs="tcp:102709:5"/>
+            <head>Salvation laid on its Right Foundation. <hi>SERMON I.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>EPH. II. 8.</hi>
+                  </bibl>
+                  <p>For by Grace are ye ſaved through faith, and that not of your ſelves, it is the gift of God.</p>
+               </q>
+            </epigraph>
+            <p>AS this Great and Bleſſed Apoſtle was <hi>Eminently</hi> carried forth in Magnifying the Riches of God's <hi>Free Grace,</hi> in all his Epiſtles, ſo was he in a Superlative manner in this to the <hi>Epheſians,</hi> which in general may be called (by the Apoſtle's own Direction) <hi>his Knowledge in the Myſtery of Chriſt,</hi> Chap. 3 Ver 4.</p>
+            <p>In the Two Firſt <hi>Chapters,</hi> he diſcourſes of <hi>Election,</hi> the foun<g ref="char:EOLhyphen"/>dation of every Believers happineſs; ſhewing the <hi>freeneſs of God's grace,</hi> in ſaving his people by <hi>Chriſt,</hi> Gentiles as well as Jews</p>
+            <p>In the Third Chapter, he recapitulates or repeats his Do<g ref="char:EOLhyphen"/>ctrine to the Church of <hi>Epheſus,</hi> begging, that they may have the ſenſe, uſe, and comfort of it, in thoſe troubleſom times, into which the Churches were ſoon caſt.</p>
+            <p>
+               <pb n="10" facs="tcp:102709:6"/>In the Three laſt Chapters, he exhorts them to all holy Du<g ref="char:EOLhyphen"/>ties, as beſt ſuiting with that holy Doctrine he had delivered; and if in theſe Church-rending Times, this bleſſed Apoſtle were conſulted withal, as ſuch a famous Oracle deſerves, we ſhould be more free from that Soul deſtroying Errour of <hi>Arminianiſm</hi> on the one hand, and from that Spirit of Prophaneneſs, which turns the <hi>grace of God</hi> into Wantonneſs on the other hand.</p>
+            <p>In this Chapter of the Text, the Apoſtle ſhews, firſt, what we are by nature,<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 3. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 5.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.3.2.</note> 
+               <hi>ſcil. dead in Treſpaſſes and Sins.</hi> Secondly, What we are by grace, that is, <hi>ſaved as Firebrands, pluck't out of the burning, ſnatch'd or delivered out of a State of Nature, and placed or ſet over into the Kingdom of Grace.</hi> Thirdly, Here is what Grace makes, <hi>viz.</hi> fruitful in good Works. <hi>By Grace are ye ſaved through Faith, and that not of your ſelves, it is the gift of God</hi> The Apoſtle having in the aforegoing Verſes, ſhewed the <hi>Epheſians,</hi> now quickned in Chriſt, what they were by nature, and giving every one of them to underſtand withal, that God did only thus, for the manifeſtation of the glory of his rich grace; ſuppoſing, that they would thus conclude, if God hath done all for us out of our ſelves in Chriſt, if there is nothing but his rich grace that may glory, then it ſeems all our Salvation is of grace. This concluſion the Apoſtle readily grants, and lays down this Apoſtolical Doctrine more at large, ſo as he pulls down every thing which would advance it ſelf againſt this great truth of God; and this he does, by laying down the true cauſes of our Salvation, poſitively in this 8th <hi>verſe, By Grace are ye ſaved.</hi>
+            </p>
+            <p>Secondly, By rejecting in the Verſe following, the falſe ſup<g ref="char:EOLhyphen"/>poſed Cauſes, negatively, not of Works, we ſhall give you the Explication of the Words, and ſo come to a Doctrinal Obſerva<g ref="char:EOLhyphen"/>tion. <hi>By Grace are ye ſaved.</hi>
+            </p>
+            <p>Grace is put ſometimes for the Favour of God, ſometimes for the Effect of God's Favour in us, when the Apoſtle ſays, <hi>Not I, but the grace of God in me.</hi> Here it is to be underſtood of the rich grace in God out of us, which only ſtands in love, good-will, and kindneſs in Chriſt, and Works, and the new Creature, which is the life of Grace, are afterwards executed. Now the
+<pb n="11" facs="tcp:102709:6"/>
+favour of God is Two-fold; <hi>Firſt,</hi> a more <hi>common</hi> and <hi>inferiour</hi> Grace: <hi>Secondly,</hi> a <hi>more ſpecial rich</hi> Grace, not Grace derived from the <hi>Law,</hi> but Rich <hi>Goſpel Grace,</hi> in which the <hi>New Teſtament,</hi> with all the Benefits of it, have their Foundation. <hi>We are Saved;</hi> there is a double Salvation for Man: God is the Saviour of all He Saves, Man and Beaſt, but He is in an eſpecial manner, the Saviour of them that Believe. Now this Salvation is to be conſidered two Ways, <hi>either as begun, or compleat.</hi> Now He ſpeaks roundly and fully of our Salvation, from beginning to the ending, as the Context clears againſt all Exception. <hi>By Grace are ye Saved, through Faith. Faith</hi> is conſidered two Ways, the one abſolutely in it ſelf as a Virtue, and a Radical Virtue, <hi>the other</hi> in Relation to <hi>Chriſt.</hi> Thus we are here to under<g ref="char:EOLhyphen"/>ſtand it, <hi>Faith on Chriſt. Christ</hi> now believed on, and <hi>Faith</hi> which is <hi>through Him,</hi> are equipotent, of equal Force, taken both as one. <hi>Faith</hi> therefore notes <hi>Chriſt</hi> applied in us by Belief; theſe two you may ſee ranked under Grace, as which can only ſtand with it, <hi>Rom.</hi> 3.24. we are Juſtified freely, by His Grace. The Apoſtle comes to prevent the Corruption of Man thus ſurmiſing that if we are to be Saved by <hi>Faith, then</hi> ſomething is to be given to us; why? becauſe we, of our own free will Believed no; tho of <hi>Faith,</hi> yet you can't chal<g ref="char:EOLhyphen"/>lenge any thing, becauſe it is not from any <hi>ſtrength</hi> in you, by <hi>which</hi> you <hi>Believed,</hi> but <hi>the</hi> Lord, He beſtowed this upon you, He drawed you, or you could never have Believed, and therefore the Apoſtle adds, <hi>it is the Gift of God.</hi> Whatſoever we can do, it is not to be truſted upon, nor rejoyced in, be<g ref="char:EOLhyphen"/>cauſe it is of God; and this is your bounden Duty,<note place="margin">Ver. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> as being Created to this very purpoſe. <hi>That which we are not of our ſelves, we muſt not boaſt our ſelves, as deſerving the ſame,</hi> but our Salvation is not of our ſelves, it is of God. Whatſoever you are, you are it of God, His Grace makes you to differ, and there<g ref="char:EOLhyphen"/>fore we have no Cauſe or Matter to truſt upon, or rejoyce in, not of your ſelves, not by reaſon of any deſert of Graces in us, or good Works that come from us, as is Confirmed in
+<pb n="12" facs="tcp:102709:7"/>
+the Verſe following.<note place="margin">Ver. 9.</note> So then what we may collect and ga<g ref="char:EOLhyphen"/>ther by way of <hi>Doctrine</hi> or <hi>Obſervation,</hi> is this,</p>
+            <p>Doct. <hi>That the Free Grace of God, or God's Free Favour, is the Ground of our Salvation; and the Reaſons why God will Save his by meer Free Grace, and undeſerved Favour, are theſe.</hi>
+            </p>
+            <p>
+               <note place="margin">Rea. 1.</note>
+               <hi>Firſt,</hi> That in the Ages to come He might ſhew the ex<g ref="char:EOLhyphen"/>ceeding <hi>Riches</hi> of His Grace, in His Kindneſs towards us, through <hi>Chriſt Jeſus;</hi> and that this is the very Reaſon the Apoſtle himſelf produces, to Confirm the Doctrine of Sal<g ref="char:EOLhyphen"/>vation by Grace, clearly appears, by comparing the <hi>fifth Verſe with the Seventh.</hi> God Saves His by meer Free Grace, and undeſerved Favour, becauſe He will make way for the Manifeſtation of <hi>the exeeeding Riches of his Grace to after Ge<g ref="char:EOLhyphen"/>nerations.</hi> Which Grace would have lain hid, and never have been admired and eſteemed, if we were to be Saved ei<g ref="char:EOLhyphen"/>ther in whole, or in part, by our own Performances: if the Saints (as a Holy Man of God was wont to ſay) <hi>were not Saved by Free Grace, by meer Grace, and nothing elſe, they would make but poor Muſick in Heaven, for they would be rea<g ref="char:EOLhyphen"/>dy to aſcribe the Praiſe due to the Riches of God's Grace, to their own good Works, and look upon their Performances, as their Saviours;</hi> they would look upon what they have done, as the procuring Cauſe that brought them <hi>thither;</hi> and then you may eaſily imagine, their would be but cold Singing before the Throne of God, but little ſetting forth of the Riches of his Grace, to lay Salvation upon any other <hi>Baſis,</hi> beſides the <hi>Free Grace and Favour</hi> of God would be to fru<g ref="char:EOLhyphen"/>ſtrate the principal end of Man's Salvation, namely, the Glory of God's Grace, which Attribute of all the reſt, he will not have Eclipſed, nor Intrenched upon, 'tis ſo Divinely Sacred, as not to admit the leaſt Humane touch, for which very Cauſe the Lord hath ſo contrived that bleſſed Deſign of his Glory, <hi>That all boaſting is ſhut out, and no Fleſh ſuffer<g ref="char:EOLhyphen"/>ed to Glory in his Preſence.</hi> But if any thing in the Creature be intituled to the Cauſalty of Salvation,<note place="margin">Cor. 1.</note> Fleſh will glory, and inſtead of excluding Man's boaſting, Grace it ſelf will
+<pb n="13" facs="tcp:102709:7"/>
+be excluded, which is far from a Glorifying of it, as is plain from <hi>Rom.</hi> 11.6.</p>
+            <p>So that this is one Reaſon why God will Save His by <hi>Free Grace,</hi> and <hi>undeſerved Favour,</hi> becauſe He will make way for the Manifeſtation of the Riches of his Grace, to after Generations, that <hi>they</hi> may be Admirers of it, and rely upon it.</p>
+            <p>
+               <hi>Secondly,</hi> A Second Reaſon why God will Save His by <hi>meer Free Grace</hi> and <hi>undeſerved Favour</hi> is, <hi>becauſe He will ut<g ref="char:EOLhyphen"/>terly Exclude Works.</hi> Grace and Works being Inconſiſtent in the Cauſe of Salvation; the Scripture is very wary and cautelous of admitting any thing as a Co-Partner with Grace in this Matter, the deſign of which is to take us off from Leaning on the Graces in us, or <hi>good Works</hi> that come from us; and that God takes this way in Saving His People, is very clear and evident, from that Weighty and Soul-Re<g ref="char:EOLhyphen"/>freſhing Scripture, 2 <hi>Tim.</hi> 1.9. <hi>Who hath Saved and Called us, with an Holy Calling, n t according to our Works, but ac<g ref="char:EOLhyphen"/>cording to his Purpoſe and Grace, which was given us in Chriſt Jeſus, before the World began.</hi> Whence it doth undeniably appear, That it is not from any thing in us, but God's Fa<g ref="char:EOLhyphen"/>vour, which doth work all for us. Now that this may ſhine the clearer, let us conſider the difference between the <hi>Covenant of the Law, and of the Goſpel.</hi> For the Firſt, there was the Grace of God in this, that He would ſtoop ſo low, as to Contract a Covenant with Man, of Righteouſneſs and Life; when a l that Man could do, were Offices due for that <hi>which he had already received in his Creation.</hi> But firſt, this Covenant was not ſtricken, or made up, in a Mediator. <hi>Secondly,</hi> this Covenant was not to be performed for any other, but for the Righteouſneſs which ſhould have been found in our ſelves. <hi>Thirdly,</hi> we ſhould in this Covenant have procured the Bleſſings of God unto our ſelves; ſo that though there was Grace in a large Senſe, that <hi>God</hi> would enter into Covenant, when He was not <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, yet <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> conſider, that in the <hi>Gifts inherent</hi> in us by Creation, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="14" facs="tcp:102709:8"/>
+founded, that for <hi>our Righteouſneſs and Works</hi> we ſhould have had <hi>the things covenanted applied; that we ſhould then have procured theſe things.</hi> Here is <hi>Grace, that God entered into Co<g ref="char:EOLhyphen"/>venant,</hi> but it is not <hi>Rich, Free Grace,</hi> becauſe Man, if He had ſtood, <hi>might have challenged his Juſtification and Life, as a Debt due for his performances,</hi> not <hi>as a meer gift from Grace.</hi> But now the Lord does all of <hi>Grace.</hi>
+            </p>
+            <p>For, Firſt, <hi>The Foundation of our Righteouſneſs and Life, he hath made out of us in his Son Jeſus Chriſt.</hi>
+            </p>
+            <p>Secondly, <hi>The Lord, for his Christ apprehended by us, per<g ref="char:EOLhyphen"/>forms all things, not for any thing in us, but for his Chriſt.</hi> He does not make <hi>us procurers of thoſe things,</hi> but, in <hi>Chriſt, does himſelf prepare them for us, that our Rejoycing might be in him.</hi> In this there is <hi>Grace,</hi> yea and <hi>Rich Goſpel Grace,</hi> that God doth covenant in <hi>the Mediator,</hi> that He <hi>beſtows his Pre<g ref="char:EOLhyphen"/>cious Son upon us,</hi> and <hi>reveals him to us,</hi> and <hi>does for him, make us partakers of Righteouſneſs and Life.</hi> Here is <hi>Grace,</hi> othergates Grace than that under the Law; for that required <hi>inherent Righteouſneſs,</hi> as that which alone could Juſtify us. This Rich Grace <hi>Pelagians, Arminians, Free-willers,</hi> &amp;c. are ſtrangers too, they are unacquainted with <hi>the Grace of the New Covenant;</hi> for this is not that Rich Grace, becauſe God having pardoned our Sins, does give us the graces of His Spirit, that we might be Righteous, and Live; for if this were all, that we are ſaved; And Firſt, of Grace, becauſe God undeſervedly hath given thoſe Graces which makes us Righteous and deſerve Salvation: Then <hi>Adam</hi> thus ſtanding might be ſaved by Grace, becauſe thoſe deſervings were given him of the Grace of God; So that the point is very clear, that God in the Riches of his Free Grace and Favour doth juſtify us.<note place="margin">2.11.</note> 
+               <hi>The Grace of God bringing Salvation unto all Men, hath appeared:</hi> So that the meer Grace of God, not excited by any works but working of its own accord, hath the whole ſtroke in the matter of our ſalvation, and this is what was well known in the time of the Old Teſtament, <hi>The Lord having declared him<g ref="char:EOLhyphen"/>ſelf
+<pb n="15" facs="tcp:102709:8"/>
+a God, Gracious to whom he would be Gracious,</hi>
+               <note place="margin">Exod. 33.19.</note> 
+               <hi>and God will thus ſave his (in a way of excluding works) becauſe his Glory is moſt dear unto him:</hi> He has ſaid,<note place="margin">Iſa. 42.8.</note> 
+               <hi>He will not give it to another.</hi> God will have no Co-partner with him in the work of ſalvation, he hares and abhors that Arrogance and Impu<g ref="char:EOLhyphen"/>dence in Man, in going about to Intrude ſomething of his own, ſo be ſharers with him in that Great work; and there<g ref="char:EOLhyphen"/>fore God doth ſo ſave us, to the barring and ſhuting out of <hi>Works,</hi> and ſo <hi>work in the buſineſs of our Salvation,</hi> that Man may have no matter of rejoycing out of God, <hi>Who doth all this work in himſelf out of man, that whoſo rejoyceth might re<g ref="char:EOLhyphen"/>joyce in the Lord,</hi> according to that of the Apoſtle, <hi>He that Glorieth, let him Glory in the Lord.</hi> Notwithſtanding,<note place="margin">1 Cor. 1. <hi>ult.</hi>
+               </note> all which we readily joyn with, and bow before the Apoſtles aſſertion, <hi>That they which believe,</hi>
+               <note place="margin">Tit. 3.8.</note> 
+               <hi>ought to maintain good works. Grace</hi> does not <hi>exclude works</hi> in the way of ſalvation, only when they are brought in as Co partners, or joynt cauſers thereof, and in this caſe they are to be wholly ex<g ref="char:EOLhyphen"/>cluded. <hi>Grace</hi> being the true and only cauſe of our ſalvati<g ref="char:EOLhyphen"/>on, and <hi>works</hi> (if right and truly good) will always be ready to own their Original, and to keep in their own place, where alſo they will appear moſt amiable and be moſt ſervice<g ref="char:EOLhyphen"/>able.</p>
+            <p>But Thirdly, a third <hi>Reaſon,</hi>
+               <note place="margin">Rea. 3d.</note> 
+               <hi>why God will ſave his by meer Free Grace and undeſerved favour, why Free Grace is the ground of their ſalvation,</hi> Is, becauſe it could not conſiſt with the wiſdom and goodneſs of God, to found the ſalvati<g ref="char:EOLhyphen"/>on of his People on a failable bottom, which it muſt be ſaid to be if dependent on any thing beſides his unchangeable Grace and Love, for whatever it was that ſalvation had be<g ref="char:EOLhyphen"/>ing from, by that alſo it muſt be maintained. What then would have become of it, if built on that Goodneſs; <hi>Which is as the Morning Cloud and early dew?</hi>
+               <note place="margin">H<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 6.4</note> God therefore build it <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a firmer Foundation, (<hi>Viz. His own Free Grace</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Creatures Goodneſs, even whilſt in a State of Perfection,
+<pb n="16" facs="tcp:102709:9"/>
+to be too ſickle and ſlight a thing, to build ſo great a work upon.</p>
+            <p>Fourthly, a Fourth Reaſon, <hi>Why Free Grace is the ground of our ſalvation, or why God will ſave his by meer grace and un<g ref="char:EOLhyphen"/>deſerved favour,</hi> Is, becauſe ſuch is the Nature and Subſtance of the Covenant of Grace, to give freely without being moved from any thing in Man. All that God does for thoſe he will ſave, is for his Names ſake, which Name is record<g ref="char:EOLhyphen"/>ed in <hi>Exod.</hi> 34.5, and 6. <hi>The Lord God, gracious and merciful.</hi> To be <hi>gracious</hi> is to do well to one that deſerves ill; and if o<g ref="char:EOLhyphen"/>therwiſe, it wou'd be but after <hi>the Covenant of Works,</hi> or <hi>firſt Covenant;</hi> which yet was not <hi>faulty,</hi> or <hi>defective in it ſelf;</hi> for it gave a Sufficiency to obtain <hi>the Benefits</hi> propoſed by it; which if they had uſed and improved as they might, there would not have needed a Second; but the Lord foreknowing <hi>the Creatures Mutability,</hi> and conſequently what need there would be of <hi>another Kind of Power and Grace than that</hi> Adam <hi>was Created with;</hi> did therefore reſolve of a Second, which in Scripture is called,<note place="margin">Tit. 1.2.</note> 
+               <hi>The hope of Eternal Life; which God, that cannot Lye, promiſed before the World began.</hi> It is ſtyled, <hi>The Covenant of Grace,</hi> not only as deſigning <hi>the Glory of his Grace, in the ſaving of Men,</hi> but as <hi>giving freely,</hi> and of <hi>Meer Grace and Favour,</hi> whatever muſt bring about that ſalvation; for where elſe can lie the <hi>difference between the Two Cove<g ref="char:EOLhyphen"/>nants?</hi> It cannot be in reſpect of the Duties injoyned by either (for <hi>Faith</hi> and <hi>Repentance</hi> are much more above the Compaſs of Natural Power, than to forbear the <hi>Forbidden Tree</hi>) but the differ noe lies in this, that <hi>the New Covenant conſiſts of better Promiſes.</hi> And this Excellency lies in the free and abſolute Engagement of <hi>God himſelf to inveſt his co<g ref="char:EOLhyphen"/>venanted ones with all things conducing to the Bleſſedneſs held forth;</hi> That is, <hi>to give to them, and work in them, whate<g ref="char:EOLhyphen"/>ver he in this Covenant requires of them.</hi> The Law ſhews us our Duty, but does not give ſtrength to perform it. The Covenant of Grace does both, by writing <hi>the Law in the Heart.</hi> The Covenant of Grace runs not upon Conditio<g ref="char:EOLhyphen"/>nal,
+<pb n="17" facs="tcp:102709:9"/>
+or failable Terms <hi>(I will [if] ye will)</hi> but Abſolute and Sovereign, <hi>I will and ye ſhall.</hi> And further, this Covenant <hi>Gives ſalvation, not upon your Ingenious complyance with what it preſcribes, or better Improvement of what you have in Communion with others.</hi> Such claims and pretenſions the Lord diſallows and often cautions againſt, but of <hi>Grace, that all our Hope might be in God and the Riches of his Grace;</hi> This being the nature and Subſtance of the <hi>Covenant of Grace,</hi> is a ſuffi<g ref="char:EOLhyphen"/>cient Reaſon, <hi>Why God will ſave his by meer Free Grace and <g ref="char:V">Ʋ</g>ndeſerved favour.</hi>
+            </p>
+            <p>The uſes of the point are ſeveral. Firſt, <hi>It is ſo that we are ſaved by meer Free Grace and undeſerved favour,</hi> Then this Confutes the Error of <hi>Arminians, Free Willers,</hi> &amp;c. In holding a Concurrence of our works. Whereas it is evi<g ref="char:EOLhyphen"/>dent, <hi>That if our Juſtification be of Grace, then there can be no room for any Inherent Holineſs, or works of ours, to make up or Concur with it.</hi> For the Apoſtle makes a flat Oppoſiti<g ref="char:EOLhyphen"/>on between <hi>Grace</hi> and <hi>Works;</hi> otherwiſe <hi>Grace were no Grace;</hi>
+               <note place="margin">Rom. 11.</note> they are ſo oppoſite, that like Fire and Water, they expel each other, and as one ſays, <hi>Grace is no more to be Accounted Grace, unleſs it be every way moſt Free.</hi> By <hi>Grace,</hi> is meant, <hi>The free favour of God,</hi> who is not moved by any thing without himſelf: But what he does, he does freely, without reſpect to Mens deſert: Nay, their undeſert rather is an expedient conſideration in this Act of Grace. By Works we are to underſtand, <hi>All that ſelf Righteouſneſs, Goodneſs, or whatever elſe is performable by Men there,</hi> Viz Grace and Works he proves as Inconſiſtent as Contraries can be: <hi>Grace and Works have always claſhed. To him that worketh the reward,</hi>
+               <note place="margin">Rom. 4.4.</note> 
+               <hi>is reckoned not of Grace but of Debt:</hi> The ſetting up of the one, is the depoſing of the other; it's dangerous daubing with things unmixable, and thus are Grace and Works in no wiſe to be mingled. If you take in any part (tho never ſo little) of your own performances as neceſſary to that be<g ref="char:EOLhyphen"/>ing juſtified, you forfeit the whole benefit of Goſpel Grace. <hi>By Grace are ye ſaved,</hi> is the Language of the Text, and in
+<pb n="18" facs="tcp:102709:10"/>
+               <hi>Rom.</hi> 3.24. It is ſaid, <hi>We are justified freely by his Grace,</hi> which word freely is very Emphatical, and is eſpecially ta<g ref="char:EOLhyphen"/>ken up in three Caſes.</p>
+            <p>
+               <hi>Firſt,</hi> When a Man does a thing without hope of the leaſt profit.</p>
+            <p>
+               <hi>Secondly,</hi> When a Man does a thing raſhly or inconſide<g ref="char:EOLhyphen"/>rately, but this ſenſe is not proper here.</p>
+            <p>
+               <hi>Thirdly,</hi> When a Man doth a thing undeſervedly, nothing moving him thereunto, but much, which might lead him to the contrary, and thus it is here to be underſtood. <hi>For when there was nothing in us, which might procure it.</hi> Nay, much, which might Exaſperate the Lord againſt us, even then he ſaved us freely of his Grace.<note place="margin">zek. 16.6.</note> When we were in our Blood, then he ſaid, <hi>Live, and even then reſolved to make us Eternally happy, and that againſt the Natural bent of our own will.</hi> leaving us to admire, that his Love ſhould be fixed on ſuch as we. Crying out, <hi>What are we, and what is our Fathers Houſe,</hi>
+               <note place="margin">Sam. 7.18.</note> 
+               <hi>that God ſhould bring us hitherto?</hi> And how is it, <hi>That thou haſt manifeſted thy ſelf to us, and not unto the World.</hi>
+               <note place="margin">John 14.22.</note>
+            </p>
+            <p>
+               <hi>Secondly,</hi> By way of Conſolation. <hi>Is it ſo, that we are ſaved by meer Free Grace and undeſerved Favour?</hi> Then this affords matter of great Comfort and Conſolation to true Be<g ref="char:EOLhyphen"/>lievers; for if our Salvation be of <hi>meer Grace,</hi> and depends not on any <hi>Worth</hi> or <hi>Holineſs in us,</hi> why ſhould we fear? In<g ref="char:EOLhyphen"/>deed, if we were <hi>to be ſaved by what we have done,</hi> then we might be in daily deſpair, and indeed utterly deſpair. Alas! what are we unclean <hi>Wretches, that we ſhould be of any worth in God's ſight,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 25.5, 6.</note> 
+               <hi>before whom the Stars are unclean?</hi> Yea, <hi>the Stars are unclean in his ſight;</hi> How much leſs Man, that is a Worm, and the Son of Man, which is a Worm? Alas! what are the beſt Performances of <hi>ſuch poor Creatures,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 15.15,</note> when it is ſaid, <hi>The Heavens are not clean in his ſight?</hi> Nay, <hi>He charges his Angels with Folly;</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 4.8.</note> How much more Abominable and Filthy is Man, <hi>which drinketh up Iniquity like water;</hi> as at the 16th of the 15th of <hi>Job.</hi> Oh! what is our <hi>Holineſs
+<pb n="19" facs="tcp:102709:10"/>
+but as a Menſtruous Clout;</hi> and our <hi>Righteouſneſs,</hi> not <hi>Righte<g ref="char:EOLhyphen"/>ouſneſs in this or that Act,</hi> but <hi>our Righteouſneſies, all of them,</hi> and <hi>the beſt of them are but as ſilthy Rags.</hi>
+            </p>
+            <p>But now, <hi>ſeeing it is not of him that willeth,</hi>
+               <note place="margin">Iſa. 64.6.</note> 
+               <hi>nor of him that runneth,</hi> but in God that ſheweth, we may boldly accept, and confidently truſt in this <hi>Free Grace of God.</hi>
+               <note place="margin">Rom. 7.16.</note> We are to bear our ſelves upon it, altho as <hi>of our ſelves we are unworthy of it:</hi> For why ſhould we put away <hi>this Rich Grace held forth and offered to us?</hi> Why ſhould we not chearfully embrace it, and re<g ref="char:EOLhyphen"/>joyce in it, eſpecially ſince it hath appeared unto all, and God, without <hi>reſpect of Perſons,</hi> makes tender of it to <hi>the poor, baſe, deſpiſed ones of the World,</hi> as well as to <hi>the Rich, Mighty and Noble.</hi>
+            </p>
+            <p>And let it be obſerved, That it is not <hi>a true Humility,</hi> but <hi>a ſottiſh Pride,</hi> to put away, and Judge our ſelves <hi>unworthy of this ſalvation, whereof it hath pleaſed God, in the Riches of his Grace, to eſteem us worthy;</hi> therefore let it be your work to Rely upon, and Rejoyce in <hi>this Grace and Favour,</hi> againſt all the Suggeſtions of Satan and your own Heart, touching your <hi>Weakneſs and <g ref="char:V">Ʋ</g>nworthineſs;</hi> and let not theſe ore whelm you, but rather plead them as <hi>the occaſions,</hi> by which <hi>Grace</hi> will be manifeſted, and ſhew it ſelf to be what it is. Thus did <hi>Paul,</hi> who when ſpeaking of <hi>Chriſt's dying for ſinners,</hi> ſays,<note place="margin">2 Tim. 1.1</note> 
+               <hi>of whom I am chief.</hi> Thus <hi>David,</hi>
+               <note place="margin">Pſal. 25.1 Luke 15.1</note> in begging the pardon of his ſins, ſays, <hi>for they are great.</hi> Thus the Prodigal, <hi>I have ſinned againſt Heaven, and before thee.</hi> Here is no mention of any <hi>Worthineſs,</hi> or <hi>Towardlineſs in them above others.</hi> No, there is none of this Stuff in any of their Pleas; they quit all that to rely on <hi>Free Grace,</hi> and <hi>meer Mercy;</hi> they knew, that to look for Salvation from <hi>any thing on this ſide,</hi> that would be to <hi>forſake a Living Fountain,</hi> and <hi>reſt on a Ciſtern, a broken Ci<g ref="char:EOLhyphen"/>ſtern;</hi> and feeding themſelves with <hi>Dreams</hi> and <hi>Fancies,</hi> which when they a woke, would leave them hardly beſtead and hungry; and therefore would by no means ſit down under <hi>the ſhadow of that Gourd.</hi>
+            </p>
+            <p>
+               <pb n="20" facs="tcp:102709:11"/>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 3. <hi>Thirdly, Is it ſo thao we are ſaved by Free Grace, and undeſerved Favour?</hi> Then, by way of <hi>Exhortation,</hi> be ſtir<g ref="char:EOLhyphen"/>red up to Two Things:</p>
+            <p>Firſt, <hi>To be Adorers of it.</hi> And,</p>
+            <p>Secondly, <hi>Endeavour a walking ſuitable to it.</hi>
+            </p>
+            <p>And Firſt, <hi>Is it ſo that we are ſaved by meer Grace?</hi> Then magnifie and adore the Matchleſs Love of God in <hi>the diſco<g ref="char:EOLhyphen"/>very of his rich Grace</hi> to any of your Souls. It is <hi>rich mercy</hi> that God would not betruſt us with ſalvation in our own keeping, but has laid it on the ſure Foundation of his own Grace, but the mercy is heightned, and ſo might our Praiſe in that, <hi>God has not only done thus for us, but alſo revealed it to us.</hi> Oh! The heighth and depth of this Love, that what has been hid from Ages, and is at this day hid from Millions of Souls, ſhould be revealed to ſuch worthleſs Creatures, that others ſhould be left groping in their Natural Darkneſs, <hi>ſeeking for help and find none;</hi> And that God ſhould make our way ſo clear, is a mercy we can never admire enough: Alas! Had we a Thouſand Hearts, and every heart cut into Ten Thouſand Peices, and every peice capable of Admiring and Adoring this Love, it were all too little. But then,</p>
+            <p>
+               <hi>Secondly,</hi> As we muſt be adorers of it, ſo we muſt endea<g ref="char:EOLhyphen"/>vour a walking ſuitable to it, where we Read, <hi>That the Grace of God bringing ſalvation, hath appeared unto all Men;</hi> We ſee what Leſſon it teaches,<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 2.11.12.</note> 
+               <hi>That denying <g ref="char:V">Ʋ</g>ngodlineſs and worldly Luſts, we ſhould live Soberly, Righteouſly and Godly in this preſent World.</hi> Beware of turning the Grace of God into wantonneſs, when Miniſters Preached up the Riches of Gods Grace, don't think it is to bolſter you in your Sins, but that by a Senſe of the Riches of Gods Grace, your hearts might be drawn out, to walk worthy of it unto all pleaſing, as the Apoſtle expreſſes it.<note place="margin">Poſ. 1.10.</note> 
+               <hi>If it have not this effect, then hear your dreadful Doom, that thou art yet in the Gall of bitterneſs and bond of Iniquity,</hi> And have (as the Apoſtle told <hi>Simon Ma<g ref="char:EOLhyphen"/>gus) Neither Lot nor part in this matter.</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 8.21.23.</note> Tho ſalvation is made <hi>ſure to us by Grace,</hi> Yet ſelf-denial and duely walking, is
+<pb n="21" facs="tcp:102709:11"/>
+what we muſt preſs after, as the matter of our Imployment in this Life, and as that which clears up our further hopes of ſalvation by Grace in another.</p>
+            <p>And altho we are ſaved by Grace, yet let us not ſin that Grace may abound. Let us take heed of that, for that would be a horrid concluſion. To take encouragement to ſin from the Freeneſs of Gods Grace, would be a ba<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e requital. Salvation by Grace, requires another Gueſs kind of requital, than this; a requital of the higheſt Love, Gratitude and Obedience, that can be manifeſted. Any Ingenious Spirit muſt needs confeſs, that it is highly baſe and ingrate to requite Evil for Good, ſeeing we are <hi>ſaved by rich free Grace,</hi> and <hi>meer Mer<g ref="char:EOLhyphen"/>cy.</hi>
+            </p>
+            <p>Let the Apoſtles Exhortation to the <hi>Romans</hi> prevail with you; <hi>I beſeech you therefore, Brethren, by the Mercies of God,</hi>
+               <note place="margin">Rom. 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> 
+               <hi>that you preſent your bodies a Living Sacrifice, holy, accept<g ref="char:EOLhyphen"/>able unto God, which is your Reaſonable Service.</hi> Oh! be in<g ref="char:EOLhyphen"/>treated by that <hi>matchleſs mercy of Free Grace,</hi> that you don't trample upon God's Love; but ſeeing we <hi>have ſuch Promi<g ref="char:EOLhyphen"/>ſes of Life and Salvation by Grace,</hi> be Honouring of it, in a walking ſuitable to it. Oh, who would Abuſe Love, by ta<g ref="char:EOLhyphen"/>king Liberty from the <hi>Freeneſs of God's Grace</hi> to ſin! Who a<g ref="char:EOLhyphen"/>mong you is not ready to blame <hi>Judas</hi> for betraying ſo good a Maſter? And who would not <hi>abhor the Conſpiracy of ſuch a Subject,</hi> whoſe <hi>Life</hi> his Prince hath ſpared of <hi>meer Grace?</hi> The Prophet <hi>Ezra</hi> argues thus with the People,<note place="margin">Ezra <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> after their Deliverance out of Bondage; <hi>Seeing that our God hath pu<g ref="char:EOLhyphen"/>niſhed us leſs than our Iniquities deſerve, ſhould we again break thy Commandments?</hi> Let us Reaſon thus with our own Souls, ſeeing God, in <hi>the Riches of his Grace,</hi> is inclined to ſave ſuch a worthleſs Creature as I am, and to bring me to the Glory and Dignity of Saints and Angels, ſhall I go on to ſin againſt ſuch Endearing Love as this? <hi>Some</hi> (ſays an Holy Man of God) <hi>pleaſe themſelves with a ſtrange kind of Doctrine, ſuch as never entred into the mind of God, That ſeeing they are ſaved by
+<pb n="22" facs="tcp:102709:12"/>
+Grace. they may live as they liſt, in Rebellion to God and Godli<g ref="char:EOLhyphen"/>neſs, following Iniquity with greedineſs, and yet go to Heaven.</hi> Certainly had God opened ſuch a Gap to Wickedneſs, He could never have juſtly complained of <hi>the Deluge of Impiety that overflows the World.</hi> Far be it from <hi>the Holy God, whoſe Purity abhors Impiety,</hi> to allow ſuch Licentiouſneſs. No, no, God's Aim in the Large Diſcoveries of his Grace, is to make you and I, and every Soul in Love with it, and to fall down in <hi>higheſt Adoration</hi> before it; For when the Soul is truly made ſenſible of <hi>the Free Grace of God in Chriſt,</hi> it makes that Soul cry out in <hi>Joſeph</hi>'s Language, <hi>Gen.</hi> 39 9. Oh, how ſhall this Soul, thus ſaved by Grace, dare to ſin againſt the God of <hi>all Grace!</hi> Oh that this might be the continual Frame of our Souls, that <hi>the God of Grace</hi> may have no Cauſe to complain of us, as of <hi>Iſrael, Deut.</hi> 32.6. <hi>Do ye thus requite the Lord, O Fooliſh People and unwiſe?</hi>
+            </p>
+         </div>
+         <div n="2" type="sermon">
+            <pb facs="tcp:102709:12"/>
+            <head>Salvation laid on its Right Foundation. <hi>SERMON II.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>EPH. II. 8.</hi>
+                  </bibl>
+                  <p>For by Grace are ye ſaved through faith, and that not of your ſelves, it is the gift of God.</p>
+               </q>
+            </epigraph>
+            <p>HAving finiſhed the former part of the Text, wherein we have proved the Doctrine of Salvation by Grace, we come to ſee the way God takes in conveying this Salvation down to us (through Faith) <hi>By Grace are ye ſaved through Faith,</hi> That is, as I told you in the Explica<g ref="char:EOLhyphen"/>tion of the words by Chriſt, believed on, or Faith on Chriſt; for you muſt always take it with the object, we are not to place Righteouſneſs in our Act of believing, for by our be<g ref="char:EOLhyphen"/>lieving, we add nothing to our juſtifying Righteouſneſs, but do only apply it as wholly derived from Chriſt alone, <hi>John</hi>
+               <pb facs="tcp:102709:13"/>
+5.12. <hi>He that hath the Son hath Life,</hi> We are not to take up our Standing partly in the Act of Faith, and partly in the Ob<g ref="char:EOLhyphen"/>ject of faith, making up (as a Holy Man now with the Lord, was wont to ſay, a Righteouſneſs partly from our ſelves and partly from Chriſt. But we are by <hi>Faith</hi> to go out of our <hi>ſelves unto Chriſt,</hi> for our <hi>whole, ſole</hi> and <hi>Juſtifying Righteouſ<g ref="char:EOLhyphen"/>neſs.</hi> The Scripture does not aſcribe our Juſtification to <hi>the Act,</hi> but <hi>wholly to the Object of Faith;</hi> not to <hi>our believing,</hi> but to <hi>Chriſt believed,</hi> &amp;c.</p>
+            <p>Now <hi>Faith</hi> being thus taken, with <hi>the Object,</hi> we may hence note, by way of Doctrine, or Obſervation,</p>
+            <p>That the Free Grace of God, and Faith, may ſtand to<g ref="char:EOLhyphen"/>gether.</p>
+            <p>They don't one take away the other. <hi>Faith</hi> hath been al<g ref="char:EOLhyphen"/>ways Requiſite, as the <hi>the Inſtrument,</hi> to apprehend and take <hi>Chriſt our Righteouſnoſs,</hi> that ſo we might in God's ſight be Juſtified. <hi>This</hi> (as the Apoſtle tells us) <hi>the Scripture plainly holds forth.</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 12.</note> The Scripture hath concluded all under ſin, <hi>that the Promiſe by Faith of Jeſus Chriſt, might be given to them that believe.</hi> And it is ſaid, <hi>God ſo loved the World, that he hath given his only begotten Son, that whoſoever believeth on him, ſhould have Everlaſting Life.</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 16.</note> Where we ſee <hi>Faith</hi> to be brought in as <hi>the Inſtrument,</hi> without which, neither the Pro<g ref="char:EOLhyphen"/>miſe can be appropriated, nor Salvation attained. When <hi>the Jaylor</hi> cryed, <hi>Sirs! what muſt I do to be ſaved?</hi> You hear what Anſwer is given to the Queſtion, <hi>Believe on the Lord Je<g ref="char:EOLhyphen"/>ſus Chriſt.</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 30,</note> And therefore, as the <hi>Righteouſneſs of Chriſt</hi> hath been beſtowed upon Men, ſo it is true, <hi>That Faith hath been all along appointed as the Receiver thereof. Faith,</hi> as one well notes, is our <hi>Modus Habendi;</hi> it is the Way and Means by which we come to have God and Chriſt, and an Intereſt in Salvation by Grace. We cannot have <hi>the Son</hi> but by <hi>Faith,</hi> nor be in <hi>Chriſt</hi> but by believing.</p>
+            <p>
+               <pb n="25" facs="tcp:102709:13"/>but here ſome may object (what I have already ſaid) namely, <hi>That the grace of God cannot ſtand with any thing in man, how then may ſuch ſay, can it ſtand with Faith?</hi> I anſwer, It is true, that the grace of God does not brook any thing inhe<g ref="char:EOLhyphen"/>rent in man, and of man, and yet notwithſtanding may well agree with faith, for faith is not of man, no not in man by nature; for ſays the Apoſtle, <hi>all men have not faith,</hi>
+               <note place="margin">2 Theſ. 3.2.</note> but it is only in Renewed Men and Women, and in them as a gift of meer grace.</p>
+            <p n="2">2dly. Faith does not juſtifie as it is an inherent quality in us, but as it apprehends <hi>Chriſt Jeſus the Redeemer,</hi>
+               <note place="margin">1 Cor. 3.30.</note> 
+               <hi>who is made of God to us, Wiſdom, and Righteouſneſs, and Purity:</hi> God does not juſtifie us becauſe of any antecedent act of Faith we have lying by us, and which we could produce as a price (as it were) and a meritorious means of our Juſti<g ref="char:EOLhyphen"/>fication: God juſtifies us by working Faith in us, and there<g ref="char:EOLhyphen"/>fore the Apoſtle ſays, <hi>it is of faith,</hi>
+               <note place="margin">Rom. 4.16.</note> 
+               <hi>that it might be of grace;</hi> thus you ſee that Faith is not at all prejudicial to the free grace of God: And this is not the only Reaſon, becauſe <hi>that faith is given of grace,</hi> for then all the gifts of the Holy Ghoſt might come likewiſe into the Article of Juſtification.</p>
+            <p>For, 3dly. Faith receives only, and ſhews to God, that righteouſneſs of Chriſt which God hath given, ond only for that thing received, and not for the receiving that it ſeeks to be juſtified. Oh that theſe great Truths (which are the fundamental Points in our Religion) were more advanced by Miniſters, and admired by Hearers.</p>
+            <p n="4">4thly. Faith receiving Chriſt, ſtands with the free grace of God, becauſe <hi>it is of Grace that the believing ſoul, lay<g ref="char:EOLhyphen"/>ing hold on Chriſt, is juſtified;</hi> for the Law knows not this Righteouſneſs, but bids us bring one of our own; it is therefore of the Lords grace that we have faith to lay hold on the Righteouſneſs of his Son: ſo that it is clear that the free grace of God and faith may ſtand together; hence by way of Uſe it is ſo, <hi>that free grace and faith may ſtand to<g ref="char:EOLhyphen"/>gether, and that faith is (tho' not our righteouſneſs) yet of
+<pb n="26" facs="tcp:102709:14"/>
+ſingular uſe and excellency, in that it apprehends the righteouſ<g ref="char:EOLhyphen"/>neſs of Chriſt, and for that righteouſneſs ſeeks to be juſtified;</hi> Oh then magnifie and adore the free grace of God for this gift; if it had not been for faith, Chriſt and our ſouls would have never met, we had never taſted any preciouſneſs in him, nor have been led out in deſires after him: Oh there<g ref="char:EOLhyphen"/>fore be bowing your ſelves before the Lord for the gift of Faith beſtowed on you, tho withheld from others.</p>
+            <p>But 2dly, Seeing faith, tho it be inſtrumental, yet it is not cauſal in the matter of our Juſtification; let this reprove thoſe who would put in claim for juſtification on account of their faith, as if that were materially or influentially cauſal of Juſtification: Faith it ſelf (as it is the Believers Act) comes under the notion of a work, it may be neceſſa<g ref="char:EOLhyphen"/>ry therefore to conſider what part it is that faith holds in this matter, leſt whiles we exclude works as inconſiſtent with grace (I mean as a procuring cauſe of our Salvation) we make a work of faith; it is the Office or Work of Faith to make the ſoul live wholly on the fulneſs of another, and to get emptied of it ſelf, to apprehend that righteouſneſs by which grace juſtifies, therefore ſuch are highly reprovea<g ref="char:EOLhyphen"/>ble who preſume upon coming to God with price in their hand, they never truly received the gift of Faith, for that comes empty handed to God, and leads the ſoul to God as a forlorn worthleſs Creature, looking for juſtification and ſalvation from nothing on this ſide the free grace of God. True faith moulds the ſoul into the frame of ſpirit old <hi>Ja<g ref="char:EOLhyphen"/>cob</hi> was when he cried,<note place="margin">Gen. 32.10.</note> 
+               <hi>I am not worthy of the leaſt of all thy mercies,</hi> it bows down under a ſence of its own nothingneſs, which is fixed upon Chriſt's fulneſs.</p>
+            <p>But 3dly. It is ſo, that faith (though not cauſal) is very inſtru<g ref="char:EOLhyphen"/>mental in the matter of juſtification and ſalvation. <hi>Oh then, as ever you would ſuck and be ſatisfied with the breaſts of her conſo<g ref="char:EOLhyphen"/>lations:</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſa. 66.11.</note> 
+               <hi>as ever you would ſee any beauty or lovelineſs in faith, or reap comfort and ſatisfaction by the abundance of faith; beg earneſtly that God would ſtrenghen your faith, imitate the
+<pb n="27" facs="tcp:102709:14"/>
+man in the Goſpel,</hi> who cried, <hi>Lord, I believe,</hi>
+               <note place="margin">Mark 9.23.</note> 
+               <hi>help my unbe<g ref="char:EOLhyphen"/>lief,</hi> q. d. <hi>Lord, I cannot hold it, my faith will fail if thou put me not under thine everlaſting Arms.</hi> You know refle<g ref="char:EOLhyphen"/>ction upon ſin, and ſinful practiſes oft raiſes a very great Storm in the Soul: Now as ever you'd have this Tempeſt becalm'd, be frequently entreating God to ſtrengthen your faith, whereby you may couragiouſly confide in the wiſe and faithful conduct of our skilful Pilot, the Lord Jeſus, who himſelf ſteers at Helm, that he may (as he has undertaken) ſet us ſafe a ſhore in the Haven of Eternal Happineſs. <hi>By grace are we ſaved through faith.</hi> Hence I note, that God's grace does ſo ſave, that firſt we muſt be true Believers; it is Believers alone that partake of grace; grace and faith muſt not be ſevered in the matter of ſalvation; <hi>God ſo lo<g ref="char:EOLhyphen"/>ved the world as to give his only begotten Son, that whoſoever believed on him,</hi> they and no other, <hi>are to have everlaſting life.</hi> Look, as in the Covenant of the Law, <hi>do this and live,</hi> no deed no life; ſo in this Covenant of the Goſpel, where<g ref="char:EOLhyphen"/>in the Lord promiſes for Chriſt to pardon ſin, to juſtifie, to accept to eternal life; here it may be ſaid, no faith no por<g ref="char:EOLhyphen"/>tion in the promiſes of God, in the grace of God in Chriſt Jeſus; for look, as Plaiſters unapplied, ſo is Chriſt unbe<g ref="char:EOLhyphen"/>lieved on; God doth ſo ſave us (ſinners in our ſelves) that firſt he makes us (through Chriſt applied) righteous and worthy of ſalvation, worthy in regard of his juſt acceptati<g ref="char:EOLhyphen"/>on, ſeeing that the Lord doth ſo juſtifie us of grace, that we are alſo made juſt in the Redemption, we learn to view and contemplate on that admirable Miſtery of Reconciling Ju<g ref="char:EOLhyphen"/>ſtice and Mercy in Chriſt; here we ſee how Gods Juſtice and Mercy accord in one. <hi>Firſt</hi> There is all Juſtice in reſpect of Chriſt, whoſe Soul felt the Indignation of God in that ex<g ref="char:EOLhyphen"/>tremity, that his Body touched therewith ſweat as it were great drops of Blood, who was wrackt and broken even with cruel Torments by the hand of God for our ſins,<note place="margin">Phil. 2.8.</note> and was humbled even to that death of the Croſs. 2dly. There is all Mercy to us, it is Mercy, High Rich Mercy, that the
+<pb n="28" facs="tcp:102709:15"/>
+ſatisfaction of Chriſt ſhould be ours, that all he did ſhould be accounted as done by our ſelves; and then, Oh what Rich Mercy is it, that Chriſt the ſatisfier ſhould be given and beſtowed upon us, this is Mercy with a witneſs, our Souls may cry, <hi>Oh, the heighth and depth of this matchleſs Mercy;</hi> but I paſs on. <hi>By Grace ye are ſaved through Faith,</hi> and (that not of your ſelves) hence I note, that nothing which we are or do, does merit our ſalvation, or is a cauſe procuring it unto us: The Apoſtle counts all his indwelling Righteouſneſs,<note place="margin">Phil. 3.7, 8.</note> conformable to the Law, <hi>Droſs and Dung,</hi> that which was not fit to be truſted in, nor accounted of. Oh, what can this Righteouſneſs do, which is in us as Wa<g ref="char:EOLhyphen"/>ter in a muddy Channel; you muſt needs confeſs there is little power in that to work ſalvation (which if the ſtrength of God ſhould not for his mercies ſake uphold) it would be quenched unceſſantly; we have nothing in us to merit ſalvation, the beſt of our performances being at<g ref="char:EOLhyphen"/>tended with a great deal of ſin and weakneſs. Here ſome will object, and ſay, <hi>If nothing of ours can merit or procure ſalvation for us, why then does God promiſe life everlaſting to works, as if ye mortifie the deeds of the fleſh, ye ſhall live; if ye ſow to the ſpirit, ye ſhall reap of the ſpirit life everlaſting.</hi> I Anſwer, There are ſome Conditions ſimply conditional, that may very well ſtand with grace. <hi>Firſt,</hi> Such are thoſe Conditions, wherein men only intreating, we promiſe and undertake to do a matter, or beſtow a kindneſs on them; as go with me to ſuch a Place, and you ſhall partake of ſuch Pleaſures or Profits; or come to me ſuch a day, I will give you ſuch a ſum of mony; where is Merit in this caſe: A Beggars receiving an Alms, argues no merit in the Recei<g ref="char:EOLhyphen"/>ver, but meer grace in the Donor: We count that he who only receives a Benefit, he doth nothing for it, it comes freely: Indeed he doth ſomthing naturally in recei<g ref="char:EOLhyphen"/>ving, but nothing morally by way of merit for the thing received.</p>
+            <p>
+               <pb n="29" facs="tcp:102709:15"/>But <hi>Secondly,</hi> There are other Conditions which have the Reaſon of a Meritorious Cauſe, as when Men don't only intreat or deſire, but deſerve upon Contract what is promiſed; as <hi>do my work well, and I will pay you faithfully.</hi> Of this kind are theſe Cenditions contain'd in the Law; <hi>Do this and live.</hi> As for thoſe in the Goſpel, they are only bare and ſimple Conditions; which deſerve nothing, yet muſt intercede and precede the beſtowing of Eternal Life.</p>
+            <p>Again ſome Object, <hi>That Life Everlaſting is a Reward, and that Rewards are deſerved.</hi> I anſwer, All Rewards are not due upon, nor given for Deſert; there is a Reward given by Grace; for the Apoſtle ſays, <hi>To him that worketh the Reward is counted not of Grace, but of Debt:</hi> Intimating, that ſome often receive very Liberal Rewards, only upon the Free Grace and Favour of the Giver; and a Reward of Grace imports thus much, that what Reward Men have of God, even upon the Account of their beſt Services, it is but a Gratuity, no Debt upon Deſert. But it may be fur<g ref="char:EOLunhyphen"/>ther objected, <hi>That which is given according to Works, is de<g ref="char:EOLhyphen"/>ſerved by Works; therefore ſo is Eternal Life.</hi> I anſwer, That indeed which is given according to Works, as the meritorious Cauſes thereof, that may well be ſaid to be de<g ref="char:EOLhyphen"/>ſerved by Works; but now Eternal Life is not ſo given, but is beſtowed according to Works, as they are Teſtimo<g ref="char:EOLhyphen"/>nies of our Faith, whereby we reſt and rely alone on Chriſt for Life and Salvation; and for whoſe ſake only believed on, they expect Eternal Life. From theſe Objections we learn to ſee the Pride and Arrogance of Mankind; who, when they come to deal with God, would have a Value put upon their own Performances; we would have a Value put upon every thing; upon our Coming, upon our Asking, upon our Believing. As if Chriſt was beholding to us for our accepting of him: So naturally fond are we of reſting upon any thing that looks like our own Performances. Ah Sirs! how little a hole will Self-Righteouſneſs creep in? How fain would we have ſomewhat, whereof to Glory. But,</p>
+            <p>
+               <pb n="30" facs="tcp:102709:16"/>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 2. <hi>Secondly,</hi> Hence we alſo learn to ſee how our Reli<g ref="char:EOLhyphen"/>gion magnifies the <hi>Grace of God,</hi> and debaſes Man to mani<g ref="char:EOLhyphen"/>feſt Tokens of the true Religion. For that Religion which ſincerely defends the <hi>Grace of God,</hi> and only rejoyces in the Advancement of that; not in the ſetting up the Works of prov'd Man ſo pernicious to the Glory of God, which pulls down the Phariſaical Feathers, wherewith Men pride them<g ref="char:EOLhyphen"/>ſelves, and ſo exalt Grace, and the Freeneſs of it, as not da<g ref="char:EOLhyphen"/>ring to thruſt in any thing of their own, whereby to leſſen his Glory, but willingly aſcribing all to his Free Grace, and Undeſerved Favour. This only is the true Religion, and this is what we now own and Preach, and ſhall Triumph in in the great Day.<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe</hi> 3.</note> But <hi>Thirdly,</hi> ſeeing it is ſo, that Works are no way a procuring Cauſe of our Salvation, then hence lets be exhorted to renounce all our good Duties whatſoever; our Praying, Weeping, Faſting, let's no way ſacrifice to our own Net, but reject all thoſe, in regard of reſting on them, as Cauſes of our Salvation. <hi>It is not of our ſelves,</hi> ſays the Apoſtle, <hi>no, nor of any we can do,</hi> in the 9th. of <hi>Deuteronomy</hi> 4. and there the Lord ſtrictly charges the Chil<g ref="char:EOLhyphen"/>dren of <hi>Iſrael</hi> concerning this very thing; <hi>Say not in thine Heart, for my Righteouſneſs the Lord hath brought me in to poſ<g ref="char:EOLhyphen"/>ſeſs the Land.</hi> The Lord abhors the naming our Righteouſ<g ref="char:EOLhyphen"/>neſs before him, as a Cauſe of our Salvation; he'll have us paſs all over to the <hi>Free Grace of God in Chriſt,</hi> confeſſing all our Righteouſneſſes to be as filthy Rags, and eſteeming them as Droſs and Dung, to win Chriſt; deſiring with the Apoſtle, <hi>To be found,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 3.9.</note> 
+               <hi>not having our own Righteouſneſs, which is of God by Faith. By Grace are ye ſaved thro Faith, and that not of your ſelves.</hi> It is the Gift of God; we are now come to the laſt Clauſe; it is the Gift of God. Hence note by way of Do<g ref="char:EOLhyphen"/>ctrine, that Salvation is matter of Free Gift, not deſert Chriſt's Language to his Diſciples, is a Confirmation of the Point; <hi>Fear not,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke 12.32.</note> 
+               <hi>little Flock, it is your Fathers good pleaſure to give you a Kingdom.</hi> He does not ſay they were to have it upon deſert, but the Father out of his Grace and good Pleaſure
+<pb n="31" facs="tcp:102709:16"/>
+would beſtow it as a Gift. <hi>Eternal Life is the Gift of God;</hi>
+               <note place="margin">Rom. 6. ult.</note> it were horrid and deſperately ſinful to think God gives us Hea<g ref="char:EOLhyphen"/>ven in a way of Exchange; for our good Works the Scrip<g ref="char:EOLhyphen"/>ture ſhews, that the Word Gift is properly taken for a Be<g ref="char:EOLhyphen"/>queathing, without the Deſert of any thing in us, or good Works, that can come from us; nothing more Free than Gift. And thus let us look upon our Salvation as the Free Gift of God; by way of Uſe is it ſo, that Salvation is be<g ref="char:EOLhyphen"/>ſtowed not upon our deſert, but as a <hi>Gift of Free Grace,</hi> and undeſerved Favour. Then hence we learn to what we muſt betake our ſelves; namely, to the <hi>Riches of God's Free Grace</hi> we are to rely upon this, and for ever diſcard and caſhier that Groundleſs and <hi>Blindfold Opinion of Salvation,</hi>
+               <note place="margin">Job 9.15.</note> partly by Grace, and partly by Works, imitating Holy <hi>Job,</hi> who ſays, <hi>Tho he were Righteous, he would not anſwer God, and would plead it, but make ſuch Supplication to his Judge.</hi> Oh! that <hi>Free Grace</hi> were more exalted, and proud Man and his empty Performances more debaſed.</p>
+            <p>
+               <hi>Secondly,</hi> Seeing Salvation is beſtowed not upon deſert, but as a Gift of Free Grace, and undeſerved Favour. Then take heed what you hear, and how; beware of thoſe Teachets and Doctrines, that tend to juſtle out Chriſt and Grace, to make <hi>room for Self-Righteouſneſs</hi> in the matter of our Juſtification and Salvation, who would have you work for Life ſtill; to work for Salvation, is to work for Life. Beware that you are not Impoſed upon by ſuch as would turn the Goſpel into Law. But then, laſtly, <hi>Seeing Salvation is be<g ref="char:EOLhyphen"/>ſtowed not upon Deſert, but as a Gift of Free Grace, then let ſuch as have cloſed with this Truth, ſit down, and take the com<g ref="char:EOLhyphen"/>fort of it.</hi> Sun your ſelves in the Light of this Grace; <hi>Eat your Bread,</hi>
+               <note place="margin">Rom. 5.5.</note> 
+               <hi>and drink your Wine</hi> (or Water) <hi>with a merry Heart.</hi> Since God hath accepted you; ſince his Grace and Love hath been ſhed abroad in your Hearts: Are you in the number of thoſe who are Wiſe and Noble according to the Fleſh; then (as one fitted with an holy Amazement) admire that the great God, (to whom you are no more than others
+<pb n="32" facs="tcp:102709:17"/>
+your Conſorts that are left, and who commonly chooſeſt the baſe and fooliſh to magnifie his Grace) ſhould thus go out of his way,<note place="margin">Cor. 1.27.</note> to call in you, to taſt of this Heavenly Ban<g ref="char:EOLhyphen"/>quet of his Free Grace and undeſerved Favour. And if you are a Man of low degree (poor, weak, fooliſh, and of no account among Men, even as one that is not and hath the Lord regarded you in your low Eſtate, and magnified you by revealing the Freeneſs of his <hi>Grace</hi> unto your Soul. Hath He drawn you to taſt of his Free <hi>Grace,</hi> and to ſee your Sal<g ref="char:EOLhyphen"/>vation by it? Hath He taken you from the Dunghil, to ſet you among Princes, even the Princes of the World to come? This is that Exaltation the <hi>Poor</hi> ſhould always Rejoyce in. What though you are in low Eſtate now,<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m. 1.9.</note> and others ſwim in Streams of Honour and worldly greatneſs? What though you are Chaſtened every Morning, yet think not you are hardly dealt with. Remember your good things are to come, they are growing in the other World, and your Harveſt is haſtening on a pace. What though the Skies be red and lowring, <hi>God</hi> has his Bow in the Cloud ſet there, as a ſure Sign, between Him and you? What though the Billows of Troubles and Temptations go over your heads? you ſhall not be Deluged by them: By Free <hi>Grace</hi> you are hedged about, and Walled up to Heaven; in this Free <hi>Grace,</hi> and un<g ref="char:EOLhyphen"/>deſerved Favour, Let us <hi>Exult and Triumph, yea, let all the Sons of God Shout for Joy.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>Notwithſtanding the Authors Attendance upon the Preſs theſe <hi>Er<g ref="char:EOLhyphen"/>rata's</hi> have eſcaped, which be pleaſed to Correct with your Pen In the Dedication, l. 1 for his r. the p. 15 l. 7 for ſo r. to p. 17 l. 5 for Communion r. common, <hi>ib.</hi> l. 27 r. Men; theſe, 16 l. 34 for that r. your p. 19 l. 5 r. ſheweth mercy p. 20 l. 1 after ſo r. that <hi>ib.</hi> l. 11 for might r. ought.</p>
+            <pb facs="tcp:102709:17"/>
+         </div>
+      </back>
+   </text>
+</TEI>
